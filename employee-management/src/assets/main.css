@@ -1,0 +1,58 @@
+body {
+  background-color: #f5f6fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.table th {
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge-dept {
+  font-size: 0.78rem;
+  padding: 0.4em 0.75em;
+  border-radius: 20px;
+}
+
+.salary-cell {
+  font-weight: 500;
+  color: #198754;
+}
+
+.action-btns .btn {
+  padding: 0.25rem 0.6rem;
+  font-size: 0.82rem;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.modal-header {
+  border-bottom: 2px solid #e9ecef;
+}
+
+.form-label {
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.stat-card {
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  color: white;
+}
